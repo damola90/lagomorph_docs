@@ -1,6 +1,6 @@
 ---
 title: Best Practices & Ethics
-layout: ethics
+layout: page
 ---
 
 ## Lagomorph Docs

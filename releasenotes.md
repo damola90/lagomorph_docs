@@ -1,6 +1,6 @@
 ---
 title: Release Notes & Roadmap
-layout: releasenotes
+layout: page
 ---
 
 ## Lagomorph Docs

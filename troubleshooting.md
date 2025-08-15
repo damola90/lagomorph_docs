@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting & FAQs
-layout: troubleshooting
+layout: page
 ---
 
 ## Lagomorph Docs

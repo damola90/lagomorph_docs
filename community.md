@@ -1,6 +1,6 @@
 ---
 title: Support & Community
-layout: community
+layout: page
 ---
 
 ## Lagomorph Docs
