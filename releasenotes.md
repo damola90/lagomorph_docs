@@ -3,9 +3,8 @@ title: Release Notes & Roadmap
 layout: page
 ---
 
-## Lagomorph Docs
-Documentation for the Lagomorph AI 3D generator tool
+# Release Notes & Roadmap
 
-### Core Use Cases
+## Changelog
 
-### Supported Platforms
+## Upcoming Features

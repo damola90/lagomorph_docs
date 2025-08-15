@@ -3,9 +3,10 @@ title: Troubleshooting & FAQs
 layout: page
 ---
 
-## Lagomorph Docs
-Documentation for the Lagomorph AI 3D generator tool
+# Troubleshooting & FAQs
 
-### Core Use Cases
+## Common Issues
 
-### Supported Platforms
+## Performance Tips
+
+## Known Limitation

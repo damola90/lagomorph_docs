@@ -3,9 +3,10 @@ title: Best Practices & Ethics
 layout: page
 ---
 
-## Lagomorph Docs
-Documentation for the Lagomorph AI 3D generator tool
+# Best Practices & Ethics
 
-### Core Use Cases
+## Ethical Use Guidelines
 
-### Supported Platforms
+## Data Privacy
+
+## Attribution

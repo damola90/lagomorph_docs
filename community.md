@@ -3,9 +3,11 @@ title: Support & Community
 layout: page
 ---
 
-## Lagomorph Docs
-Documentation for the Lagomorph AI 3D generator tool
+# Support & Community
 
-### Core Use Cases
+## Contact
+For any question about the tool feel free to reach out to us at hello@lagomorph.ai
 
-### Supported Platforms
+## Community
+### Links
+Discord
